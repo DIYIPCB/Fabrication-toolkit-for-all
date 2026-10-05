@@ -60,7 +60,7 @@ Zone filling is performed on the export copy; the original PCB is not saved or m
 | Substitution | Designer-supplied substitution rules |
 | Datasheet | Datasheet reference or URL |
 | DNP | Do not populate status |
-| LCSC Part # | LCSC component number for JLCPCB-related workflows |
+| LCSC Part # | LCSC component number |
 
 Existing custom fields are retained. Different part numbers, manufacturers, substitution rules, LCSC numbers or DNP states are not combined into the same BOM group.
 
